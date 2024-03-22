@@ -5,4 +5,6 @@
  * 3. use controled elements L: one obejct holding all the fields values
  * 4. uncontroled elements : by reference hook useRef to create reference to
  * the element and access value by using like:nameRef.current.value
+ * 5.use hook to handle state and submit and error . example react hook form
+ * 6. Reuseable components 
  */
